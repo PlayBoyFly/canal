@@ -6,6 +6,9 @@ import com.alibaba.otter.canal.protocol.ClientIdentity;
 import com.alibaba.otter.canal.protocol.Message;
 import com.alibaba.otter.canal.server.exception.CanalServerException;
 
+/**
+ * 整个订阅相关的接口
+ */
 public interface CanalService {
 
     void subscribe(ClientIdentity clientIdentity) throws CanalServerException;

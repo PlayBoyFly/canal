@@ -11,6 +11,7 @@ import com.alibaba.otter.canal.protocol.CanalEntry.Entry;
 import com.google.protobuf.ByteString;
 
 /**
+ * canal协议
  * @author zebin.xuzb @ 2012-6-19
  * @version 1.0.0
  */

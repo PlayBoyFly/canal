@@ -7,6 +7,7 @@ import org.apache.commons.lang.builder.ToStringBuilder;
 import com.alibaba.otter.canal.common.utils.CanalToStringStyle;
 
 /**
+ *
  * @author jianghang 2012-6-21 上午10:52:02
  * @version 1.0.0
  */
